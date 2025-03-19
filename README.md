@@ -70,27 +70,27 @@
 </div>
 
 ## The practice areas
-[Python](https://github.com/clivan/Python): Python Practices.
-[Cpp](https://github.com/clivan/Cpp): Collection of C++ scripts for practice.[
-[Fortran](https://github.com/clivan/Fortran): A little of Numerical methods in Fortran. For academic purposes.
-[Programacion de sistemas embebidos](https://github.com/clivan/Programacion-de-sistemas-embebidos): The collection of the exercises for this subject, using MKL25Z128xxx4 microcontroller.
-[NumOpt](https://github.com/clivan/NumOpt): Collection of homeworks for Numerical Optimization subject. Each one corresponds to an algorithm.
-[VHDL](https://github.com/clivan/VHDL): Practices on VHDL for Hardware description using a Basys2 Development board.
+* [Python](https://github.com/clivan/Python): Python Practices.
+* [Cpp](https://github.com/clivan/Cpp): Collection of C++ scripts for practice.[
+* [Fortran](https://github.com/clivan/Fortran): A little of Numerical methods in Fortran. For academic purposes.
+* [Programacion de sistemas embebidos](https://github.com/clivan/Programacion-de-sistemas-embebidos): The collection of the exercises for this subject, using MKL25Z128xxx4 microcontroller.
+* [NumOpt](https://github.com/clivan/NumOpt): Collection of homeworks for Numerical Optimization subject. Each one corresponds to an algorithm.
+* [VHDL](https://github.com/clivan/VHDL): Practices on VHDL for Hardware description using a Basys2 Development board.
 
 
 ## The things that I follow
-[Awesome-things](https://github.com/clivan/Awesome-things): My version of Awesome for the repos that I follow.
+* [Awesome-things](https://github.com/clivan/Awesome-things): My version of Awesome for the repos that I follow.
 
 
 ## The things that I work on
-[TT](https://github.com/clivan/TT): My university TT (End-Grade-Work). A 1:10 scaled Autonomous car.
-[ClaudiOS](https://github.com/clivan/ClaudiOS/tree/main): A minimalist OS for Raspberry Pi 3B+.
-[ClauRTOS](https://github.com/clivan/ClauRTOS): A simple RTOS based on AVR architecture.
-[MIDI](https://github.com/clivan/MIDI): A project that involves a MIDI controller, a Synth, and probably a sampler.
-[MrGeiger](https://github.com/clivan/MrGeiger): A simple meteorologic station. Work in collaboration with the SAZac.
+* [TT](https://github.com/clivan/TT): My university TT (End-Grade-Work). A 1:10 scaled Autonomous car.
+* [ClaudiOS](https://github.com/clivan/ClaudiOS/tree/main): A minimalist OS for Raspberry Pi 3B+.
+* [ClauRTOS](https://github.com/clivan/ClauRTOS): A simple RTOS based on AVR architecture.
+* [MIDI](https://github.com/clivan/MIDI): A project that involves a MIDI controller, a Synth, and probably a sampler.
+* [MrGeiger](https://github.com/clivan/MrGeiger): A simple meteorologic station. Work in collaboration with the SAZac.
 
 
 ## The Templates
-[LaTeX Templates](https://github.com/clivan/LaTeX-Templates): Backup of $\LaTeX$ Templates that I have used.
-[ProyectoROS](https://github.com/clivan/ProyectoROS): Base of a simple project for the Robotics Course.
+* [LaTeX Templates](https://github.com/clivan/LaTeX-Templates): Backup of $\LaTeX$ Templates that I have used.
+* [ProyectoROS](https://github.com/clivan/ProyectoROS): Base of a simple project for the Robotics Course.
 
